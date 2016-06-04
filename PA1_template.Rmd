@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 
 
 
@@ -24,7 +24,7 @@
     <meta name="viewport" content="width=device-width">
     
     
-    <title>coursera-repdata/PA1_template.Rmd at master · sefakilic/coursera-repdata · GitHub</title>
+    <title>coursera-repdata/PA1_template.Rmd at master ·  /coursera-repdata · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -39,8 +39,8 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
     <meta property="fb:app_id" content="1401488693436528">
 
-      <meta content="https://avatars1.githubusercontent.com/u/1227083?v=3&amp;s=400" name="twitter:image:src" /><meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="sefakilic/coursera-repdata" name="twitter:title" /><meta content="coursera-repdata - Peer Assessment 1 for Reproducible Research" name="twitter:description" />
-      <meta content="https://avatars1.githubusercontent.com/u/1227083?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="sefakilic/coursera-repdata" property="og:title" /><meta content="https://github.com/sefakilic/coursera-repdata" property="og:url" /><meta content="coursera-repdata - Peer Assessment 1 for Reproducible Research" property="og:description" />
+      <meta content="https://avatars1.githubusercontent.com/u/1227083?v=3&amp;s=400" name="twitter:image:src" /><meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content=" /coursera-repdata" name="twitter:title" /><meta content="coursera-repdata - Peer Assessment 1 for Reproducible Research" name="twitter:description" />
+      <meta content="https://avatars1.githubusercontent.com/u/1227083?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content=" /coursera-repdata" property="og:title" /><meta content="https://github.com/ /coursera-repdata" property="og:url" /><meta content="coursera-repdata - Peer Assessment 1 for Reproducible Research" property="og:description" />
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
@@ -83,13 +83,13 @@
 
       
   <meta name="description" content="coursera-repdata - Peer Assessment 1 for Reproducible Research">
-  <meta name="go-import" content="github.com/sefakilic/coursera-repdata git https://github.com/sefakilic/coursera-repdata.git">
+  <meta name="go-import" content="github.com/ /coursera-repdata git https://github.com/ /coursera-repdata.git">
 
-  <meta content="1227083" name="octolytics-dimension-user_id" /><meta content="sefakilic" name="octolytics-dimension-user_login" /><meta content="19899531" name="octolytics-dimension-repository_id" /><meta content="sefakilic/coursera-repdata" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="16709733" name="octolytics-dimension-repository_parent_id" /><meta content="rdpeng/RepData_PeerAssessment1" name="octolytics-dimension-repository_parent_nwo" /><meta content="16709733" name="octolytics-dimension-repository_network_root_id" /><meta content="rdpeng/RepData_PeerAssessment1" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/sefakilic/coursera-repdata/commits/master.atom" rel="alternate" title="Recent Commits to coursera-repdata:master" type="application/atom+xml">
+  <meta content="1227083" name="octolytics-dimension-user_id" /><meta content=" " name="octolytics-dimension-user_login" /><meta content="19899531" name="octolytics-dimension-repository_id" /><meta content=" /coursera-repdata" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="16709733" name="octolytics-dimension-repository_parent_id" /><meta content="rdpeng/RepData_PeerAssessment1" name="octolytics-dimension-repository_parent_nwo" /><meta content="16709733" name="octolytics-dimension-repository_network_root_id" /><meta content="rdpeng/RepData_PeerAssessment1" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/ /coursera-repdata/commits/master.atom" rel="alternate" title="Recent Commits to coursera-repdata:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/sefakilic/coursera-repdata/blob/master/project1/PA1_template.Rmd" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/ /coursera-repdata/blob/master/project1/PA1_template.Rmd" data-pjax-transient>
   </head>
 
 
@@ -127,7 +127,7 @@
 
       <div class="site-header-actions">
             <a class="btn btn-primary site-header-actions-btn" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
-          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fsefakilic%2Fcoursera-repdata%2Fblob%2Fmaster%2Fproject1%2FPA1_template.Rmd" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2F %2Fcoursera-repdata%2Fblob%2Fmaster%2Fproject1%2FPA1_template.Rmd" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
       </div>
 
         <nav class="site-header-nav site-header-nav-secondary">
@@ -136,7 +136,7 @@
           <a class="nav-item" href="https://help.github.com">Support</a>
           <a class="nav-item header-search-link" href="https://github.com/search">Search GitHub</a>
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/sefakilic/coursera-repdata/search" class="js-site-search-form" data-scoped-search-url="/sefakilic/coursera-repdata/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/ /coursera-repdata/search" class="js-site-search-form" data-scoped-search-url="/ /coursera-repdata/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
       <div class="header-search-scope">This repository</div>
       <input type="text"
@@ -177,41 +177,41 @@
 <ul class="pagehead-actions">
 
   <li>
-      <a href="/login?return_to=%2Fsefakilic%2Fcoursera-repdata"
+      <a href="/login?return_to=%2F %2Fcoursera-repdata"
     class="btn btn-sm btn-with-count tooltipped tooltipped-n"
     aria-label="You must be signed in to watch a repository" rel="nofollow">
     <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6c4.94 0 7.94-6 7.94-6S13 2 8.06 2z m-0.06 10c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4z m2-4c0 1.11-0.89 2-2 2s-2-0.89-2-2 0.89-2 2-2 2 0.89 2 2z"></path></svg>
     Watch
   </a>
-  <a class="social-count" href="/sefakilic/coursera-repdata/watchers">
+  <a class="social-count" href="/ /coursera-repdata/watchers">
     3
   </a>
 
   </li>
 
   <li>
-      <a href="/login?return_to=%2Fsefakilic%2Fcoursera-repdata"
+      <a href="/login?return_to=%2F %2Fcoursera-repdata"
     class="btn btn-sm btn-with-count tooltipped tooltipped-n"
     aria-label="You must be signed in to star a repository" rel="nofollow">
     <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M14 6l-4.9-0.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14l4.33-2.33 4.33 2.33L10.4 9.26 14 6z"></path></svg>
     Star
   </a>
 
-    <a class="social-count js-social-count" href="/sefakilic/coursera-repdata/stargazers">
+    <a class="social-count js-social-count" href="/ /coursera-repdata/stargazers">
       2
     </a>
 
   </li>
 
   <li>
-      <a href="/login?return_to=%2Fsefakilic%2Fcoursera-repdata"
+      <a href="/login?return_to=%2F %2Fcoursera-repdata"
         class="btn btn-sm btn-with-count tooltipped tooltipped-n"
         aria-label="You must be signed in to fork a repository" rel="nofollow">
         <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path d="M8 1c-1.11 0-2 0.89-2 2 0 0.73 0.41 1.38 1 1.72v1.28L5 8 3 6v-1.28c0.59-0.34 1-0.98 1-1.72 0-1.11-0.89-2-2-2S0 1.89 0 3c0 0.73 0.41 1.38 1 1.72v1.78l3 3v1.78c-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72V9.5l3-3V4.72c0.59-0.34 1-0.98 1-1.72 0-1.11-0.89-2-2-2zM2 4.2c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z m3 10c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z m3-10c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z"></path></svg>
         Fork
       </a>
 
-    <a href="/sefakilic/coursera-repdata/network" class="social-count">
+    <a href="/ /coursera-repdata/network" class="social-count">
       23,926
     </a>
   </li>
@@ -219,9 +219,9 @@
 
     <h1 class="public ">
   <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path d="M8 1c-1.11 0-2 0.89-2 2 0 0.73 0.41 1.38 1 1.72v1.28L5 8 3 6v-1.28c0.59-0.34 1-0.98 1-1.72 0-1.11-0.89-2-2-2S0 1.89 0 3c0 0.73 0.41 1.38 1 1.72v1.78l3 3v1.78c-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72V9.5l3-3V4.72c0.59-0.34 1-0.98 1-1.72 0-1.11-0.89-2-2-2zM2 4.2c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z m3 10c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z m3-10c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z"></path></svg>
-  <span class="author" itemprop="author"><a href="/sefakilic" class="url fn" rel="author">sefakilic</a></span><!--
+  <span class="author" itemprop="author"><a href="/ " class="url fn" rel="author"> </a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/sefakilic/coursera-repdata" data-pjax="#js-repo-pjax-container">coursera-repdata</a></strong>
+--><strong itemprop="name"><a href="/ /coursera-repdata" data-pjax="#js-repo-pjax-container">coursera-repdata</a></strong>
 
     <span class="fork-flag">
       <span class="text">forked from <a href="/rdpeng/RepData_PeerAssessment1">rdpeng/RepData_PeerAssessment1</a></span>
@@ -238,7 +238,7 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/sefakilic/coursera-repdata" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /sefakilic/coursera-repdata" itemprop="url">
+    <a href="/ /coursera-repdata" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches / /coursera-repdata" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M9.5 3l-1.5 1.5 3.5 3.5L8 11.5l1.5 1.5 4.5-5L9.5 3zM4.5 3L0 8l4.5 5 1.5-1.5L2.5 8l3.5-3.5L4.5 3z"></path></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
@@ -246,7 +246,7 @@
 
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/sefakilic/coursera-repdata/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /sefakilic/coursera-repdata/pulls" itemprop="url">
+    <a href="/ /coursera-repdata/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls / /coursera-repdata/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 11.28c0-1.73 0-6.28 0-6.28-0.03-0.78-0.34-1.47-0.94-2.06s-1.28-0.91-2.06-0.94c0 0-1.02 0-1 0V0L4 3l3 3V4h1c0.27 0.02 0.48 0.11 0.69 0.31s0.3 0.42 0.31 0.69v6.28c-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72z m-1 2.92c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2zM4 3c0-1.11-0.89-2-2-2S0 1.89 0 3c0 0.73 0.41 1.38 1 1.72 0 1.55 0 5.56 0 6.56-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72V4.72c0.59-0.34 1-0.98 1-1.72z m-0.8 10c0 0.66-0.55 1.2-1.2 1.2s-1.2-0.55-1.2-1.2 0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2z m-1.2-8.8c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z"></path></svg>
       <span itemprop="name">Pull requests</span>
       <span class="counter">0</span>
@@ -255,11 +255,11 @@
 
 
 
-  <a href="/sefakilic/coursera-repdata/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /sefakilic/coursera-repdata/pulse">
+  <a href="/ /coursera-repdata/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse / /coursera-repdata/pulse">
     <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0V10h3.6L4.5 8.2l0.9 5.4L9 8.5l1.6 1.5H14V8H11.5z"></path></svg>
     Pulse
 </a>
-  <a href="/sefakilic/coursera-repdata/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors /sefakilic/coursera-repdata/graphs">
+  <a href="/ /coursera-repdata/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors / /coursera-repdata/graphs">
     <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M16 14v1H0V0h1v14h15z m-11-1H3V8h2v5z m4 0H7V3h2v10z m4 0H11V6h2v7z"></path></svg>
     Graphs
 </a>
@@ -274,7 +274,7 @@
 
     
 
-<a href="/sefakilic/coursera-repdata/blob/887120ed7a37211dd2d2bdc05dbe0e81e0e1ae7d/project1/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/ /coursera-repdata/blob/887120ed7a37211dd2d2bdc05dbe0e81e0e1ae7d/project1/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:6d6806dc24f7cf07b8d8f21bab535284 -->
 
@@ -318,7 +318,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/sefakilic/coursera-repdata/blob/master/project1/PA1_template.Rmd"
+               href="/ /coursera-repdata/blob/master/project1/PA1_template.Rmd"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -346,7 +346,7 @@
 </div>
 
   <div class="btn-group right">
-    <a href="/sefakilic/coursera-repdata/find/master"
+    <a href="/ /coursera-repdata/find/master"
           class="js-pjax-capture-input btn btn-sm"
           data-pjax
           data-hotkey="t">
@@ -355,22 +355,22 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/sefakilic/coursera-repdata"><span>coursera-repdata</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/sefakilic/coursera-repdata/tree/master/project1"><span>project1</span></a></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/ /coursera-repdata"><span>coursera-repdata</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/ /coursera-repdata/tree/master/project1"><span>project1</span></a></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
   </div>
 </div>
 
 
   <div class="commit-tease">
       <span class="right">
-        <a class="commit-tease-sha" href="/sefakilic/coursera-repdata/commit/a294c1c2856357eb6f345902dd359b0814b386b0" data-pjax>
+        <a class="commit-tease-sha" href="/ /coursera-repdata/commit/a294c1c2856357eb6f345902dd359b0814b386b0" data-pjax>
           a294c1c
         </a>
         <relative-time datetime="2014-05-18T15:05:57Z">May 18, 2014</relative-time>
       </span>
       <div>
-        <img alt="@sefakilic" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/1227083?v=3&amp;s=40" width="20" />
-        <a href="/sefakilic" class="user-mention" rel="author">sefakilic</a>
-          <a href="/sefakilic/coursera-repdata/commit/a294c1c2856357eb6f345902dd359b0814b386b0" class="message" data-pjax="true" title="peer assessment 1">peer assessment 1</a>
+        <img alt="@ " class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/1227083?v=3&amp;s=40" width="20" />
+        <a href="/ " class="user-mention" rel="author"> </a>
+          <a href="/ /coursera-repdata/commit/a294c1c2856357eb6f345902dd359b0814b386b0" class="message" data-pjax="true" title="peer assessment 1">peer assessment 1</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -385,8 +385,8 @@
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list" data-facebox-id="facebox-description">
           <li class="facebox-user-list-item">
-            <img alt="@sefakilic" height="24" src="https://avatars2.githubusercontent.com/u/1227083?v=3&amp;s=48" width="24" />
-            <a href="/sefakilic">sefakilic</a>
+            <img alt="@ " height="24" src="https://avatars2.githubusercontent.com/u/1227083?v=3&amp;s=48" width="24" />
+            <a href="/ "> </a>
           </li>
       </ul>
     </div>
@@ -397,9 +397,9 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/sefakilic/coursera-repdata/raw/master/project1/PA1_template.Rmd" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/sefakilic/coursera-repdata/blame/master/project1/PA1_template.Rmd" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/sefakilic/coursera-repdata/commits/master/project1/PA1_template.Rmd" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/ /coursera-repdata/raw/master/project1/PA1_template.Rmd" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/ /coursera-repdata/blame/master/project1/PA1_template.Rmd" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/ /coursera-repdata/commits/master/project1/PA1_template.Rmd" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
